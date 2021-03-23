@@ -1,0 +1,17 @@
+{
+  "name": "logger",
+  "version": "1.0.0",
+  "description": "A dynamic logger with 4 options",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Logger"
+  ],
+  "author": "Zaakir Sheikh",
+  "license": "MIT",
+  "dependencies": {
+    "mustang-log": "^1.1.2"
+  }
+}
