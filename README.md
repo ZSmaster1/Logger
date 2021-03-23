@@ -1,12 +1,12 @@
 # Installation
 ```
-npm install logger
+npm install @zs_master1/logger
 ```
 
 # Usage
 
 ```js
-const Logger = require('logger');
+const Logger = require('@zs_master1/logger');
 const log = new Logger();
 
 //error
