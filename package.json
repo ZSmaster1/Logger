@@ -1,10 +1,11 @@
 {
-  "name": "logger",
+  "name": "@zs_master1/logger",
   "version": "1.0.0",
   "description": "A dynamic logger with 4 options",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ZSmaster1/Logger.git"
   },
   "keywords": [
     "Logger"
